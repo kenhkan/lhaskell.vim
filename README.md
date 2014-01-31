@@ -22,3 +22,5 @@ Pathogen plugin managers.
 
 [lp]: http://www.haskell.org/haskellwiki/Literate_programming
 [lhv]: http://www.haskell.org/haskellwiki/Literate_programming/Vim
+[p]: https://github.com/tpope/vim-pathogen
+[v]: https://github.com/gmarik/vundle
